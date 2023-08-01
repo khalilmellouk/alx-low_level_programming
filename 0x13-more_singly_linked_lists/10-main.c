@@ -64,6 +64,5 @@ int main(void)
     printf("-----------------\n");
     delete_nodeint_at_index(&head, 0);
     print_listint(head);
-
     return (0);
 }
